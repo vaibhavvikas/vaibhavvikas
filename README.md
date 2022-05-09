@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/stargazers"><img src="https://img.shields.io/github/stars/vaibhavvikas/vaibhavvikas.svg?logo=github"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+</p>
 
-<!--
-**vaibhavvikas/vaibhavvikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](./src/header_.png)
 
-Here are some ideas to get you started:
+<!--   GitHub stats graph -->
+#### 📈 GitHub Activity Graph:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![vaibhavvikas's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true) | ![vaibhavvikas's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8&layout=compact)
+--- | ---
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas"></img>
+</p>
