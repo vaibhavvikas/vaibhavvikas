@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<p align="center">
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/stargazers"><img src="https://img.shields.io/github/stars/vaibhavvikas/vaibhavvikas.svg?logo=github"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+</p>
 
-You can use the [editor on GitHub](https://github.com/vaibhavvikas/vaibhavvikas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### 📈 GitHub Activity Graph:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8&layout=compact#gh-light-mode-only" alt="My GitHub Stats"/>
+--- | ---
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaibhavvikas/vaibhavvikas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
