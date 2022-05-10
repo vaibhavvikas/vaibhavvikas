@@ -33,7 +33,7 @@ jobs:
           # these next 3 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3c7dd9
             dist/github-contribution-grid-snake-default.svg?color_snake=#3c7dd9&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
