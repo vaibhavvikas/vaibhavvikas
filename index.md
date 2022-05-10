@@ -12,9 +12,12 @@
 
 #### 📈 GitHub Activity Graph:
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8&layout=compact#gh-light-mode-only" alt="My GitHub Stats"/>
---- | ---
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+</p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/>
 </p>
