@@ -4,12 +4,10 @@ name: Generate Snake
 # Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-
   push:
 
 # The sequence of runs in this workflow:
@@ -40,7 +38,6 @@ jobs:
       - run: git status
 
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/<file>
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
