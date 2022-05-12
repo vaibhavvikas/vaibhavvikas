@@ -11,7 +11,7 @@
 
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -36,15 +36,13 @@
 
 <table>
     <tr>
-        <td><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8&layout=compact#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8&layout=compact#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8&layout=compact#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
-
-<p align="center">
-    <a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a>
-    <a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-</p>
